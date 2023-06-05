@@ -6,12 +6,12 @@
 # 2. History and Future enhancement   
    
   ## 2.1 History
-  * First, arduino uno was used to build a breadboard prototype device.  
+  * First, arduino uno was used to build the first prototype for this project.  
   * Arduino Uno was replaced later with Arduino Nano for the sake of minimising dimensions.  
   * For GUI, Arduino IDE's serial monitor was used to communicate serially with the device.
   * A C program is built using gtk UI elements provided.
-  ## 2.2What's next
-  * Replacing arduino dev board with a microcontroller chip as a chalenge to decrease the level of abstraction.  
+  ## 2.2 What's next?
+  * Replacing arduino dev board with a microcontroller chip as a chalenge where the level of abstraction is lowered.  
   * Building a GUI using Flutter framework as a learning project.
     
     
