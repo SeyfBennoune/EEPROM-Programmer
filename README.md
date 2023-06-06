@@ -17,7 +17,7 @@
     
 # 3. Circuit
   ## 3.1 Schematics   
-     ![image](schematicsV1.png)
+     ![schematicsV1.png](https://github.com/SeyfBennoune/EEPROM-Programmer/blob/73c626bf13e85fa1120b5f878d1d911e1aca6734/schematicsV1.png)
   ## 3.2 PCB layout
   
   
