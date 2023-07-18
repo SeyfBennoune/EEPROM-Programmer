@@ -17,8 +17,7 @@
     
 # 3. Circuit
   ## 3.1 Schematics   
-![schematicsV1](https://github.com/SeyfBennoune/EEPROM-Programmer/assets/106933478/a02b5a46-9929-4ab6-9f91-95c1d0d57602)
-
+  soon...
   ## 3.2 PCB layout
   soon...
   
