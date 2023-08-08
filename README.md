@@ -21,7 +21,8 @@
 
    
   ## 3.2 PCB preview
-  
+  file:///home/seyf/Documents/pcbPreview.png
+
     
 # 4. GUI   
    
