@@ -21,6 +21,7 @@
 
    
   ## 3.2 PCB preview
+![pcbPreview](https://github.com/SeyfBennoune/EEPROM-Programmer/assets/106933478/30e576f9-15df-47be-88d4-80d6b833c11c)
 
     
 # 4. GUI   
