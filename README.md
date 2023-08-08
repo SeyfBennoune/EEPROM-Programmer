@@ -21,7 +21,8 @@
 
    
   ## 3.2 PCB preview
-  file:///home/seyf/Documents/pcbPreview.png
+![preview](https://github.com/SeyfBennoune/EEPROM-Programmer/assets/106933478/4fc214a9-9b5b-4628-8d74-1f1ec68ad66f)
+![pcbPreview](https://github.com/SeyfBennoune/EEPROM-Programmer/assets/106933478/148d3468-aca7-40b9-837d-02d4d7d14e89)
 
     
 # 4. GUI   
