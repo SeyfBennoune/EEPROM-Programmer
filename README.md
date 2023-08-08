@@ -17,11 +17,11 @@
     
 # 3. Circuit
   ## 3.1 Schematics   
-![schematics](https://github.com/SeyfBennoune/EEPROM-Programmer/assets/106933478/7b98ee0c-c48e-4c97-bb4c-3ee5e348a3be)
+![schematics](https://github.com/SeyfBennoune/EEPROM-Programmer/assets/106933478/7fcb4c6c-07be-4981-9b3f-023f95238939)
 
    
   ## 3.2 PCB preview
-![pcbPreview](https://github.com/SeyfBennoune/EEPROM-Programmer/assets/106933478/30e576f9-15df-47be-88d4-80d6b833c11c)
+![pcbPreview](https://github.com/SeyfBennoune/EEPROM-Programmer/assets/106933478/078d6284-717c-478b-904d-d74a6e25e933)
 
     
 # 4. GUI   
