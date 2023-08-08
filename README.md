@@ -27,4 +27,7 @@
 # 4. GUI   
 ![gui](https://github.com/SeyfBennoune/EEPROM-Programmer/assets/106933478/e644b6fa-53c6-47e6-913b-43de51d1a0be)
 
+# 5. Notes
+Relevant Kicad files and C program will be uploaded soon.
+
 
