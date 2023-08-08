@@ -9,7 +9,7 @@
   * First, Arduino Uno was used to build the first prototype for this project.  
   * Arduino Uno was replaced later with Arduino Nano for the sake of minimising dimensions.  
   * For GUI, Arduino IDE's serial monitor was used to communicate serially with the device.
-  * A C program is built using gtk UI elements provided.
+  * A C program is built later using gtk toolkit.
   ## 2.2 What's next?
   * Replacing arduino dev board with a microcontroller chip as a chalenge where the level of abstraction is lowered.  
   * Building a GUI using Flutter framework as a learning project.
